@@ -1,1 +1,1 @@
-"# webpack-typescript-tutorial" 
+typescript初期設定
